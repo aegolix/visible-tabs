@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Visible Tabs",
+    "version": "1.0",
+
+    "default_locale": "en",
+    "description": "Visible Tabs keeps tabs visible above others to help work navigation easier.",
+    "icon": {
+
+    },
+
+    "browser_action": {
+
+    },
+
+    "background": {
+        "persistent": false
+    },
+
+    "permission": ["tabs"]
+}
